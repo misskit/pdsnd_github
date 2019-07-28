@@ -1,6 +1,7 @@
 # Explore US Bikeshare Data
 # Project 2 in Programming for Data Science - Nanodegree Udacity
 # bikeshare.py by Sarah Kit
+# 2019 July lastest update
 
 import time
 import pandas as pd
