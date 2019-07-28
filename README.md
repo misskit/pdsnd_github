@@ -1,15 +1,14 @@
-### Date created
+### 2019-07-27
 Include the date you created this project and README file.
 
-### Project Title
+### Bikeshare Project
 Replace the Project Title
 
-### Description
+### Udacity Python Project for Programming for Data Science Nanodegree
 Describe what your project is about and what it does
 
-### Files used
+### chicago.csv, new_york_city.csv, washington.csv
 Include the files used
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
