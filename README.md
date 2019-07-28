@@ -1,15 +1,14 @@
-### Date created
+### 2019-07-28
 Include the date you created this project and README file.
 
-### Project Title
+### Bikeshare
 Replace the Project Title
 
-### Description
+### Python project Udacity
 Describe what your project is about and what it does
 
-### Files used
+### chicago.csv, new_york_city.csv, washington.csv
 Include the files used
 
-### Credits
+### Credits to Udacity
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
