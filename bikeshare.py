@@ -1,4 +1,4 @@
-# Explore US Bikeshare Data
+﻿# Explore US Bikeshare Data
 # Project 2 in Programming for Data Science - Nanodegree Udacity
 # bikeshare.py by Sarah Kit 
 # July 2019
@@ -14,7 +14,6 @@ CITY_DATA = { 'chicago': 'chicago.csv',
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
-
     Returns:
         (str) city - name of the city to analyze
         (str) month - name of the month to filter by, or "all" to apply no month filter
@@ -50,7 +49,6 @@ def get_filters():
 def load_data(city, month, day):
     """
     Loads data for the specified city and filters by month and day if applicable.
-
     Args:
         (str) city - name of the city to analyze
         (str) month - name of the month to filter by, or "all" to apply no month filter
